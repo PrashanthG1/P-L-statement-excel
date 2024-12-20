@@ -9,7 +9,7 @@ This project provides a detailed analysis of distributor performance, focusing o
 
 ## Key Features  
 - **Fiscal Year Alignment**:  
-  - The financial year starts in September (Q4) and ends in August.  
+  - The financial year starts in September (Q1) and ends in August (Q4).  
   - Adjusted date tables to reflect the fiscal year in all calculations and reports.  
 
 - **Monthly and Quarterly Breakdown**:  
